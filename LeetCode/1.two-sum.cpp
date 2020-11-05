@@ -18,7 +18,6 @@ public:
             id[nums[i]] = i+1;
         }
         return {-1, -1};
-        
     }
 };
 // @lc code=end
