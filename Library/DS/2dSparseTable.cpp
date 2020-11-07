@@ -3,6 +3,7 @@
 const int  N =  1003;
 int a[N][N], dp[N][N][10][10];
 const int lg = 10;
+
 //lg is 1 power greater than N
 ll dpp[N][N]; 
  
